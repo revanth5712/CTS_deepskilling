@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LL+IiqPZFhs=",
+  "dgSpecHash": "+gi9UKdGGDk=",
   "success": true,
-  "projectFilePath": "R:\\cts\\MoqHandsOn\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+  "projectFilePath": "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\revan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\revan\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

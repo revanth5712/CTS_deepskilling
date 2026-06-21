@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "r:\\cts\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj": {}
+    "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj": {}
   },
   "projects": {
-    "r:\\cts\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj": {
+    "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "r:\\cts\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectUniqueName": "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
         "projectName": "CustomerCommLib",
-        "projectPath": "r:\\cts\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectPath": "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
         "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-        "outputPath": "r:\\cts\\MoqHandsOn\\CustomerCommLib\\obj\\",
+        "outputPath": "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"

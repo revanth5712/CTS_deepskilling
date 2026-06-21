@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zn/NZ1qTsUw=",
+  "dgSpecHash": "ZqFPFLkWGP0=",
   "success": true,
-  "projectFilePath": "r:\\cts\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
+  "projectFilePath": "R:\\cts\\CTS_deepskilling\\NUnit and Moq\\MoqHandsOn\\CustomerCommLib\\CustomerCommLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
