@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\cts\\SingletonPatternExample\\SingletonPatternExample.csproj",
+      "projectUniqueName": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise1-SingletonPatternExample\\SingletonPatternExample.csproj",
       "projectName": "SingletonPatternExample",
-      "projectPath": "R:\\cts\\SingletonPatternExample\\SingletonPatternExample.csproj",
+      "projectPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise1-SingletonPatternExample\\SingletonPatternExample.csproj",
       "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-      "outputPath": "R:\\cts\\SingletonPatternExample\\obj\\",
+      "outputPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise1-SingletonPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"

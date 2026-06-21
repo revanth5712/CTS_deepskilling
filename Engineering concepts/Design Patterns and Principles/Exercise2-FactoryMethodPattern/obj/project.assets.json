@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
+      "projectUniqueName": "r:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
       "projectName": "Exercise2-FactoryMethodPattern",
-      "projectPath": "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
+      "projectPath": "r:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
       "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-      "outputPath": "R:\\cts\\Exercise2-FactoryMethodPattern\\obj\\",
+      "outputPath": "r:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"

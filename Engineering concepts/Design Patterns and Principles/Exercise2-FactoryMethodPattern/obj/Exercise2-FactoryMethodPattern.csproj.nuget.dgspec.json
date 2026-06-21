@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj": {}
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj": {}
   },
   "projects": {
-    "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj": {
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
+        "projectUniqueName": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
         "projectName": "Exercise2-FactoryMethodPattern",
-        "projectPath": "R:\\cts\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
+        "projectPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\Exercise2-FactoryMethodPattern.csproj",
         "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-        "outputPath": "R:\\cts\\Exercise2-FactoryMethodPattern\\obj\\",
+        "outputPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Design Patterns and Principles\\Exercise2-FactoryMethodPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\cts\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj": {}
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj": {}
   },
   "projects": {
-    "R:\\cts\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj": {
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\cts\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj",
+        "projectUniqueName": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj",
         "projectName": "Exercise-7-FinancialForecasting",
-        "projectPath": "R:\\cts\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj",
+        "projectPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise-7-FinancialForecasting\\Exercise-7-FinancialForecasting.csproj",
         "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-        "outputPath": "R:\\cts\\Exercise-7-FinancialForecasting\\obj\\",
+        "outputPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise-7-FinancialForecasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"

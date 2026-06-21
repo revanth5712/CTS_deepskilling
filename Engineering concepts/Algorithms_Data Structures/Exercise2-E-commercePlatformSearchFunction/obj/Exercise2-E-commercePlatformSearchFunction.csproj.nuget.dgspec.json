@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "R:\\cts\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj": {}
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj": {}
   },
   "projects": {
-    "R:\\cts\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj": {
+    "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\cts\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj",
+        "projectUniqueName": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj",
         "projectName": "Exercise2-E-commercePlatformSearchFunction",
-        "projectPath": "R:\\cts\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj",
+        "projectPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise2-E-commercePlatformSearchFunction\\Exercise2-E-commercePlatformSearchFunction.csproj",
         "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-        "outputPath": "R:\\cts\\Exercise2-E-commercePlatformSearchFunction\\obj\\",
+        "outputPath": "R:\\cts\\CTS_deepskilling\\Engineering concepts\\Algorithms_Data Structures\\Exercise2-E-commercePlatformSearchFunction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config"
