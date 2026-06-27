@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Wd3W+DGcDo=",
+  "dgSpecHash": "t9emMeFgd1w=",
   "success": true,
-  "projectFilePath": "R:\\cts\\RetailInventory\\RetailInventory.csproj",
+  "projectFilePath": "R:\\cts\\CTS_deepskilling\\Entity Framework Core\\Lab1-RetailInventory\\RetailInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\revan\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\revan\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
